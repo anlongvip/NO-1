@@ -1,48 +1,9 @@
-import Head from "next/head";
-import styles from "../styles/Home.module.css";
+<p>Hello 大家好</p>
+<p>很高兴你来到这里, 我是一名区块链博主，参与4everland空投赢得大奖~</p>
 
-export default function Home() {
-  return (
-    <div className={styles.container}>
-      <Head>
-        <title>Create Next App</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
 
-      <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://www.4everland.org/firstlanding/">4everland!</a>
-        </h1>
-
-        <p className={styles.description}>
-          Get started by editing{" "}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
-
-        <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
-
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a href="" className={styles.card}>
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a href="" className={styles.card}>
-            <h3>Deploy &rarr;</h3>
-            <p>
-              Instantly deploy your Next.js site to a public URL with 4everland.
-            </p>
-          </a>
-        </div>
-      </main>
-    </div>
-  );
-}
+<ul>
+  <li> <a href="https://www.4everland.org/firstlanding">4everland活动地址~</a> </li>
+    <li> <a href="https://hosting.4everland.org/#/?invite=71CKZW4I">如果喜欢我的话,请点击这里~</a> </li>
+  <li> <a href="https://hosting.4everland.org/#/?invite=71CKZW4I">I am participating in 4EVERLAND  First Landing event. Deploying projects to win your share of 50 million 4EVER, come and join here</a> </li>
+</ul>
